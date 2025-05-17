@@ -23,7 +23,7 @@ I'm always eager to learn new tools and level up my skills — turning creative 
 
 ### 🛠️ Tech & Tools I Use
 
-- 💻 Languages: `C++`, `Java`, currently exploring `Python`
+- 💻 Languages: `C++`, `Java`
 - 🕹️ Main area: Game Development
 - ⚙️ Engines I explore: Unity, Godot, Unreal Engine
 - 📦 Version control: Git & GitHub
